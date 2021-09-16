@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Author is DefTruth 👋   
 - 🎓 JNU(master's degree)
 - 📖 [**DefTruth's page**](https://github.com/DefTruth)
-- 🔭 Computer Vision (检测/分割/抠图/人脸识别/目标跟踪)
+- 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
 - ❤  Languages: Python C/C++
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN
 
