@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="180" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Author is DefTruth 👋   
 - 🎓 JNU(master's degree)
