@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="180" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
-## Author is DefTruth 👋   
+## Author is DefTruth 👋  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
 - 🎓 JNU(master's degree)
 - 📖 [**DefTruth's page**](https://github.com/DefTruth)
 - 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
