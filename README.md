@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="300" width="480" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="300" width="440" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Hi~ it's DefTruth 👋  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
 - 🎓 JNU(master's degree)
