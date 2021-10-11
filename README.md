@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="250" width="440" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
-## Hi~ it's DefTruth 👋  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
+## Hi~ it's DefTruth 👋 
 - 🎓 JNU(master's degree)
 - 📖 [**DefTruth's page**](https://github.com/DefTruth)
 - 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN
 - ✨ Contribute To: [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀🚀🌟](https://github.com/DefTruth/lite.ai.toolkit)
 
-<!-----
+
+<!----- 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=flat" alt="logo" height="160" align="left" style="margin: auto; margin-bottom: 20px;" /> 
 </div>   
