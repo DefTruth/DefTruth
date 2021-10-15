@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
 - ❤  Languages: Python C/C++
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN
-- ✨ Contribute To: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀🚀🌟](https://github.com/DefTruth/lite.ai.toolkit)
+- ✨ Contribute To: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀](https://github.com/DefTruth/lite.ai.toolkit)
 
 
 <!----- 
