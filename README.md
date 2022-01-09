@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png)
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="300" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 - ❤  Languages: Python C/C++
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN TNN
 - ✨ Contributed To: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀](https://github.com/DefTruth/lite.ai.toolkit)
-
 
 <!----- 
  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
