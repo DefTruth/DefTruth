@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="350" width="300" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="300" width="350" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Hi~ it's DefTruth 👋 
 - 🎓 JNU(master's degree 暨南大学 统计系)
