@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align='center'>
+  <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png">
+</div>    
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=flat" alt="logo" height="320" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
@@ -25,14 +29,9 @@ Here are some ideas to get you started:
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN TNN
 - ✨ Contributed To: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀](https://github.com/DefTruth/lite.ai.toolkit)
 
-##
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=flat&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
-  <br>
-  <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png">
+   <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=flat&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 </div>    
-
-
 
 <!----- 
  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
