@@ -19,12 +19,16 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="250" width="350" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Hi~ it's DefTruth 👋 
-- 🎓 JNU(master's degree)
-- 📖 [**DefTruth's page**](https://www.zhihu.com/column/c_1360887484541452288)
+- 🎓 JNU(master's degree 暨南大学 统计系)
+- 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
 - 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
-- ❤  Languages: Python C/C++
+- ❤  Languages: Python C/C++ Java R
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN TNN
 - ✨ Contributed To: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀](https://github.com/DefTruth/lite.ai.toolkit)
+
+---- 
+* 🍅Stay Learning, Focus, Productivity and Faith (保持学习、专注、高效和信念)
+* 🍅Completeness is more important than perfection (完整比完美更重要)
 
 <!----- 
  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
