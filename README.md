@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=flat" alt="logo" height="270" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=flat" alt="logo" height="280" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Hi~ it's DefTruth 👋 
 - 🎓 JNU(master's degree 暨南大学 统计系)
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
+- ✨ 保持学习、专注、高效和信念 | 完整比完美更重要
 - 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
 - ❤  Languages: Python C/C++ Java R
 - ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN TNN
@@ -27,15 +28,11 @@ Here are some ideas to get you started:
 ##
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=flat&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
+  <br>
+  <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png">
 </div>    
 
-## DefTruth's RoadMap    
 
-![](https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png)
-
-## DefTruth's Faiths    
-* 🍅Stay Learning, Focus, Productivity and Faith (保持学习、专注、高效和信念)
-* 🍅Completeness is more important than perfection (完整比完美更重要)
 
 <!----- 
  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
