@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="250" width="350" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="270" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Hi~ it's DefTruth 👋 
 - 🎓 JNU(master's degree 暨南大学 统计系)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * 🍅Completeness is more important than perfection (完整比完美更重要)
 
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1" height="160" align="left" style="margin: auto; margin-bottom: 20px;" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1" height="120" align="left" style="margin: auto; margin-bottom: 20px;" /> 
 </div>  
 
 <!----- 
