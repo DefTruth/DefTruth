@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * 🍅Completeness is more important than perfection (完整比完美更重要)
 
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1" height="150" align="left" style="margin: auto; margin-bottom: 20px;" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1&column=7" height="130" align="left" style="margin: auto; margin-bottom: 20px;" /> 
 </div>  
 
 <!----- 
