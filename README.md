@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>    
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=flat" alt="logo" height="320" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=flat" alt="logo" height="270" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## Hi~ it's DefTruth 👋 
 - 🎓 JNU(master's degree 暨南大学 统计系)
