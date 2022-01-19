@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 🎓 JNU(master's degree 暨南大学 统计系)
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
-- ✨ 保持学习、专注、高效和信念 | 完整比完美更重要
 - 🔭 Computer Vision (检测/分割/抠图/识别/跟踪)
 - ❤  Languages: Python | C | C++ | Java | R
-- ❤  Frameworks: PyTorch ONNXRuntime MNN NCNN TNN
-- ✨ Contributed To: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit🚀](https://github.com/DefTruth/lite.ai.toolkit)
+- ❤  Frameworks: PyTorch | TensorFlow | Keras 
+- ✨ Engines: ONNXRuntime | MNN | TNN | NCNN 
+- ✨ Contributed: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
 
 <!----- 
  ![](https://visitor-badge.laobi.icu/badge?page_id=DefTruth.DefTruth)
