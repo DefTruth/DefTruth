@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 </div>    
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="240" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="200" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 - 🎓 JNU(master's degree 暨南大学 统计系)
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
