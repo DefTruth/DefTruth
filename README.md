@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 <!--
 <div align='center'>
   <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/lite.ai.toolkit-roadmap-v0.1.png">
-</div>    
----->  
-## Hi~ it's DefTruth 👋 
+</div>  
+  
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/31974251/150139371-c98f823d-93fa-4a87-bf19-fbd0c217ba01.jpeg">
 </div>    
+---->  
 
+## Hi~ it's DefTruth 👋   
 <div align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 </div>    
