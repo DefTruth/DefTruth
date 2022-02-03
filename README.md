@@ -61,3 +61,6 @@ Here are some ideas to get you started:
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
+<div align='center'>
+  <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/logo.png">
+</div>
