@@ -60,5 +60,7 @@ Here are some ideas to get you started:
   <img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
-</p>
+</p> 
+
+![logo-v3](https://user-images.githubusercontent.com/31974251/153538834-d671c771-7533-42b1-b3bf-eb1d7fe14dba.png)
 
