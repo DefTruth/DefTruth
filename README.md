@@ -60,6 +60,6 @@ Here are some ideas to get you started:
   <img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
-</p> 
+</p>   
 
-![logo-v3](https://user-images.githubusercontent.com/31974251/153695197-bfc6ca36-23a5-481b-b71f-b070569eb37b.png)
+![lite ai toolkit-logov7](https://user-images.githubusercontent.com/31974251/154079041-e4e945cc-ecb5-4b31-a294-761b7cb831c9.png)
