@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/31974251/150139371-c98f823d-93fa-4a87-bf19-fbd0c217ba01.jpeg">
 </div>    
 ---->  
-
-## Hi~ it's DefTruth 👋   
 <!---
 <div align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
@@ -32,12 +30,11 @@ Here are some ideas to get you started:
 </div>
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="200" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="200" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 - 🎓 JNU(master's degree 暨南大学 统计系)
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
 - 🔭 CV/CG (检测/分割/抠图/识别/跟踪/表情驱动)
-- ❤  Languages: Python | C | C++ | Java | R
 - ❤  Frameworks: PyTorch | TensorFlow | Keras 
 - ✨ Engines: ONNXRuntime | MNN | TNN | NCNN 
 - ✨ Contributed: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
