@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <div align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=DefTruth&theme=onedark&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 </div>    
---->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/31974251/154079041-e4e945cc-ecb5-4b31-a294-761b7cb831c9.png" height="100" width="800"/>  
 </div>
+--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=onedark" alt="logo" height="200" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
