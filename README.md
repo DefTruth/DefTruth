@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - 🎓 JNU(master's degree 暨南大学 统计系)
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
 - 🔭 CV/CG (检测/分割/抠图/识别/跟踪/表情驱动)
-- ❤  Frameworks: PyTorch | TensorFlow | Keras 
-- ✨ Engines: ONNXRuntime | MNN | TNN | NCNN 
+- ❤  Frameworks: Paddle|PyTorch|TensorFlow
+- ✨ Engines: Paddle Lite|Paddle Inference|ORT|TRT|MNN
 - ✨ Contributed: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
 
 <p align="center">
