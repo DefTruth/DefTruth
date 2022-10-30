@@ -30,13 +30,12 @@ Here are some ideas to get you started:
 </div>
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=light" alt="logo" height="140" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=light" alt="logo" height="120" width="500" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 - 🎓 Master degree in Statistics Department of JNU
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
 - 🔭 CV/CG (检测/分割/抠图/识别/跟踪/表情驱动)
-- ❤  Frameworks: Paddle | PyTorch | TensorFlow | Keras
-- ✨ Engines: Paddle Lite | Paddle Inference | ORT | TRT
+- ❤ DREAM 做一只平平无奇的代码仔
 <!--
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
