@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 🎓 Master degree in Statistics Department of JNU
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
 - 🔭 CV/CG/C++/Python/Java/Android/推理部署小白
+- ✨ Contribute To: [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) [torchlm](https://github.com/DefTruth/torchlm)
 
 <!--
 <p align="center">
