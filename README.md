@@ -32,13 +32,12 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=light" alt="logo" height="170" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
-- 🎓 JNU(master's degree 暨南大学 统计系)
+- 🎓 Master degree in Statistics Department of Jinan University 
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/column/c_1360887484541452288) Email: qyjdef@163.com
 - 🔭 CV/CG (检测/分割/抠图/识别/跟踪/表情驱动)
 - ❤  Frameworks: Paddle | PyTorch | TensorFlow | Keras
 - ✨ Engines: Paddle Lite | Paddle Inference | ORT | TRT
-- ✨ Contributed: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [YOLOP](https://github.com/hustvl/YOLOP) [RVM](https://github.com/PeterL1n/RobustVideoMatting) [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
-
+<!--
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
@@ -63,3 +62,4 @@ Here are some ideas to get you started:
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>   
+-->
