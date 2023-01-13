@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true&theme=light" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DefTruth&show_icons=true&theme=light" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 - ❤ Hi ~ I am DefTruth: 保持学习 (keep study)
 - 🎓 Master degree in Statistics Department of JNU
