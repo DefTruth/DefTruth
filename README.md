@@ -4,5 +4,5 @@
 - 🎓 Master degree in Statistics Department of JNU
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/people/qyjdef/posts) Email: qyjdef@163.com
 - 🔭 CV/ASM/C++/Python/Java/Android/推理部署
-- ✨ Contribute: [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) [torchlm](https://github.com/DefTruth/torchlm), etc
+- ✨ Contribute: [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)/[FastDeploy](https://github.com/PaddlePaddle/FastDeploy)/[torchlm](https://github.com/DefTruth/torchlm) ...
 
