@@ -1,4 +1,3 @@
-![llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
@@ -7,6 +6,8 @@
 - 📖 [**DefTruth's Blog Page**](https://www.zhihu.com/people/qyjdef/posts) Email: qyjdef@163.com
 - 🔭 [CV](https://github.com/PaddlePaddle/FastDeploy/tree/develop)/[LLM](https://github.com/DefTruth/Awesome-LLM-Inference)/[C++](https://github.com/DefTruth/lite.ai.toolkit)/[Python](https://github.com/DefTruth/torchlm)/[Java](https://github.com/PaddlePaddle/FastDeploy/blob/develop/java/android/README_CN.md)/[Android](https://github.com/PaddlePaddle/FastDeploy/blob/develop/java/android/README_CN.md)/[SIMD](https://github.com/PaddlePaddle/FastDeploy/pull/907)/[CUDA](https://github.com/PaddlePaddle/FastDeploy/tree/develop/fastdeploy/runtime/backends/paddle/ops)
 - ✨ Contribute: [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)/[FastDeploy](https://github.com/PaddlePaddle/FastDeploy)/[torchlm](https://github.com/DefTruth/torchlm)/...
+
+![llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
 
 |🛠[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) | 💎[torchlm](https://github.com/DefTruth/torchlm) | 📒[statistic-learning-R-note](https://github.com/DefTruth/statistic-learning-R-note) | 🎉[cuda-learn-note](https://github.com/DefTruth/cuda-learn-note) | 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) |   
 |:---:|:---:|:---:|:---:|:---:|
