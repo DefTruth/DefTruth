@@ -1,8 +1,10 @@
-
-![[llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference)](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
-
 <!--
+![[llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference)](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
+-->
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+
 
 - ❤  昨日邻家乞新火, 晓窗分与读书灯 (保持学习)
 - 🎓 Master degree in Statistics Department of JNU
@@ -15,4 +17,4 @@
 |:---:|:---:|:---:|:---:|:---:|
 |![](https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit.svg?style=social) ![](https://img.shields.io/github/downloads/DefTruth/lite.ai.toolkit/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)| ![](https://img.shields.io/github/stars/DefTruth/torchlm.svg?style=social)   ![](https://static.pepy.tech/personalized-badge/torchlm?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)| ![](https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social) ![](https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) |![](https://img.shields.io/github/stars/DefTruth/cuda-learn-note.svg?style=social) ![](https://img.shields.io/github/issues/DefTruth/cuda-learn-note?color=9cc)|  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social) ![](https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)|
 
--->
+
