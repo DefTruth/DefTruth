@@ -9,9 +9,6 @@
 
 -->
 
-> [!NOTE]
-> 哥尔·D·罗杰: 想要我的财宝吗？想要的话可以全部给你，去寻找吧！我把所有财宝都放在那里了！
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
