@@ -20,4 +20,5 @@
 
 -->
 
+![](https://img.shields.io/github/stars/DefTruth.svg?style=social)  
 ![[llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference)](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
