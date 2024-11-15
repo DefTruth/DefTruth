@@ -17,7 +17,22 @@
 - 🔭 [CV](https://github.com/PaddlePaddle/FastDeploy/tree/develop)/[LLM](https://github.com/DefTruth/Awesome-LLM-Inference)/[C++](https://github.com/DefTruth/lite.ai.toolkit)/[Python](https://github.com/DefTruth/torchlm)/[Java](https://github.com/PaddlePaddle/FastDeploy/blob/develop/java/android/README_CN.md)/[Android](https://github.com/PaddlePaddle/FastDeploy/blob/develop/java/android/README_CN.md)/[SIMD](https://github.com/PaddlePaddle/FastDeploy/pull/907)/[CUDA](https://github.com/DefTruth/CUDA-Learn-Notes)
 - ✨ Contribute: [lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)/[FastDeploy](https://github.com/PaddlePaddle/FastDeploy)/[vLLM](https://github.com/vllm-project/vllm)/...
 ![](https://img.shields.io/badge/Diffusion-brightgreen.svg)
--->
 
 ![](https://img.shields.io/github/stars/DefTruth.svg?style=social)  ![](https://img.shields.io/github/followers/DefTruth.svg?style=social) ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![](https://img.shields.io/badge/CUDA-brightgreen.svg) ![](https://img.shields.io/badge/ARM-SIMD-yellow.svg) ![](https://img.shields.io/badge/C/C++-hotpink.svg) ![](https://img.shields.io/badge/Python-blue.svg) ![](https://img.shields.io/badge/JAVA-JNI-hotpink.svg) ![](https://img.shields.io/badge/Android-blue.svg) ![](https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg)  ![](https://img.shields.io/badge/Diffusion-brightgreen.svg)
+-->
+
+<div align='center'>
+  <img src='https://img.shields.io/github/stars/DefTruth.svg?style=social' >
+  <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
+  <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' >
+  <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/ARM-SIMD-yellow.svg' >
+  <img src='https://img.shields.io/badge/C++-hotpink.svg' >
+  <img src='https://img.shields.io/badge/Python-blue.svg' >
+  <img src='https://img.shields.io/badge/JNI-hotpink.svg' >
+  <img src='https://img.shields.io/badge/Android-blue.svg' >
+  <img src='https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
+</div> 
+
 [![cuda-learn-notes](https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a)](https://github.com/DefTruth/CUDA-Learn-Notes)
