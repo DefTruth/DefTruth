@@ -2,7 +2,6 @@
 
 ![[llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference)](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
 
-
 |🛠[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) | 💎[torchlm](https://github.com/DefTruth/torchlm) | 📒[statistic-learning-R-note](https://github.com/DefTruth/statistic-learning-R-note) | 🎉[cuda-learn-note](https://github.com/DefTruth/cuda-learn-note) | 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) |   
 |:---:|:---:|:---:|:---:|:---:|
 |![](https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit.svg?style=social) ![](https://img.shields.io/github/downloads/DefTruth/lite.ai.toolkit/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)| ![](https://img.shields.io/github/stars/DefTruth/torchlm.svg?style=social)   ![](https://static.pepy.tech/personalized-badge/torchlm?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)| ![](https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social) ![](https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) |![](https://img.shields.io/github/stars/DefTruth/cuda-learn-note.svg?style=social) ![](https://img.shields.io/github/issues/DefTruth/cuda-learn-note?color=9cc)|  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social) ![](https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)|
@@ -21,4 +20,4 @@
 -->
 
 ![](https://img.shields.io/github/stars/DefTruth.svg?style=social)  ![](https://img.shields.io/github/followers/DefTruth.svg?style=social) ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![](https://img.shields.io/badge/CUDA-brightgreen.svg) ![](https://img.shields.io/badge/ARM-SIMD-yellow.svg) ![](https://img.shields.io/badge/C/C++-hotpink.svg) ![](https://img.shields.io/badge/Python-blue.svg) ![](https://img.shields.io/badge/JAVA-JNI-hotpink.svg) ![](https://img.shields.io/badge/Android-blue.svg) ![](https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg)  ![](https://img.shields.io/badge/Diffusion-brightgreen.svg)
-![[llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference)](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
+[![cuda-learn-notes](https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a)](https://github.com/DefTruth/CUDA-Learn-Notes)
