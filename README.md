@@ -35,14 +35,15 @@
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >
   <img src='https://img.shields.io/badge/ARM-SIMD-yellow.svg' >
-  <img src='https://img.shields.io/badge/C++-hotpink.svg' >
+  <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
   <img src='https://img.shields.io/badge/Python-blue.svg' >
   <img src='https://img.shields.io/badge/JNI-hotpink.svg' >
   <img src='https://img.shields.io/badge/Android-blue.svg' >
   <img src='https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/CV-brightgreen.svg' >
   <img src="https://img.shields.io/badge/cuFFPA-CUDA/Python-blue.svg" >
-  <img src='https://img.shields.io/badge/PTX-hotpink.svg' >
+  <img src='https://img.shields.io/badge/PTX ISA-hotpink.svg' >
   <img src='https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a' width=370>
 </div> 
 
