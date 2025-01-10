@@ -37,7 +37,7 @@
   <img src='https://img.shields.io/badge/ARM-SIMD-yellow.svg' >
   <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
   <img src='https://img.shields.io/badge/Python-blue.svg' >
-  <img src='https://img.shields.io/badge/JNI-hotpink.svg' >
+  <img src='https://img.shields.io/badge/JAVA-JNI-hotpink.svg' >
   <img src='https://img.shields.io/badge/Android-blue.svg' >
   <img src='https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
