@@ -40,8 +40,8 @@
   <img src='https://img.shields.io/badge/JAVA-JNI-hotpink.svg' >
   <img src='https://img.shields.io/badge/PTX ISA-hotpink.svg' >
   <img src='https://img.shields.io/badge/Android-blue.svg' >
-  <img src='https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg' >
-  <img src='https://img.shields.io/badg/VLM-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/AI-LLM-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
   <img src='https://img.shields.io/badge/CV-brightgreen.svg' >
   <img src='https://img.shields.io/badge/NLP-brightgreen.svg' >
