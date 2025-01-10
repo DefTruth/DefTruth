@@ -38,12 +38,12 @@
   <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
   <img src='https://img.shields.io/badge/Python-blue.svg' >
   <img src='https://img.shields.io/badge/JAVA-JNI-hotpink.svg' >
+  <img src='https://img.shields.io/badge/PTX ISA-hotpink.svg' >
   <img src='https://img.shields.io/badge/Android-blue.svg' >
   <img src='https://img.shields.io/badge/AI-LLM|VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
   <img src='https://img.shields.io/badge/CV/NLP-brightgreen.svg' >
   <img src="https://img.shields.io/badge/cuFFPA-CUDA/Python-blue.svg" >
-  <img src='https://img.shields.io/badge/PTX ISA-hotpink.svg' >
   <img src='https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a' width=370>
 </div> 
 
