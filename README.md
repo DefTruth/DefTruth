@@ -44,7 +44,6 @@
   <img src='https://img.shields.io/badge/VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
   <img src='https://img.shields.io/badge/CV-brightgreen.svg' >
-  <img src='https://img.shields.io/badge/NLP-brightgreen.svg' >
   <img src="https://img.shields.io/badge/cuFFPA:~2x↑🎉SDPA EA-brightgreen.svg" >
   <img src='https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a' width=370>
 </div> 
