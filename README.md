@@ -32,7 +32,7 @@
 -->
 
 
-<div align='left'>
+<div align='center'>
   <img src='https://img.shields.io/github/stars/DefTruth.svg?style=social' >
   <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
   <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >
