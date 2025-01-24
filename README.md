@@ -25,6 +25,8 @@
 
 [![cuda-learn-notes](https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a)](https://github.com/DefTruth/CUDA-Learn-Notes)
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src='https://img.shields.io/badge/PTX ISA-hotpink.svg' >
+<img src='https://img.shields.io/badge/CV-brightgreen.svg' >
 
 -->
 
@@ -38,12 +40,10 @@
   <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
   <img src='https://img.shields.io/badge/Python-blue.svg' >
   <img src='https://img.shields.io/badge/JAVA-JNI-hotpink.svg' >
-  <img src='https://img.shields.io/badge/PTX ISA-hotpink.svg' >
   <img src='https://img.shields.io/badge/Android-blue.svg' >
-  <img src='https://img.shields.io/badge/AI Infra-LLM-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/AI-LLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
-  <img src='https://img.shields.io/badge/CV-brightgreen.svg' >
   <img src="https://img.shields.io/badge/FFPA:~2x↑🎉SDPA EA-blue.svg" >
 </div> 
 
