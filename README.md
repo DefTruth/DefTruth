@@ -37,12 +37,11 @@
   <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
   <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >
   <img src='https://img.shields.io/badge/ARM-SIMD-yellow.svg' >
-  <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
+  <img src='https://img.shields.io/badge/C++-hotpink.svg' >
   <img src='https://img.shields.io/badge/Python-blue.svg' >
   <img src='https://img.shields.io/badge/JAVA-hotpink.svg' >
   <img src='https://img.shields.io/badge/Android-blue.svg' >
-  <img src='https://img.shields.io/badge/AI-LLM-brightgreen.svg' >
-  <img src='https://img.shields.io/badge/VLM-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/AI-LLM/VLM-brightgreen.svg' >
   <img src='https://img.shields.io/badge/Diffusion-brightgreen.svg' >
   <img src="https://img.shields.io/badge/FFPA:~2x↑🎉SDPA EA-blue.svg" >
 </div> 
