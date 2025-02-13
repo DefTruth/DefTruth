@@ -33,7 +33,7 @@
 
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="120" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 <div align='center'>
   <img src='https://img.shields.io/github/stars/DefTruth.svg?style=social' >
