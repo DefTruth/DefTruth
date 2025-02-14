@@ -52,6 +52,6 @@
   <img src='https://img.shields.io/badge/📚CUDA Learn Notes-brightgreen.svg' >
   <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
   <img src='https://img.shields.io/badge/📚Awesome LLM Inference-brightgreen.svg' >
-  <img src="https://img.shields.io/badge/⚡️HGEMM-blue.svg" >
+  <img src="https://img.shields.io/badge/📚HGEMM/SGEMM-brightgreen.svg" >
 </div> 
 
