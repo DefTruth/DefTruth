@@ -55,17 +55,18 @@
 <img src="https://github.com/user-attachments/assets/6b5cc7c1-50f9-42cb-a123-4bf5b4ac8d6c" alt="image" height="120" width="400" align="left" style="margin: 5px; margin-bottom: 0px;"/>
 </div> 
 -->
+
 <div align='center'>
   <img src="https://github.com/user-attachments/assets/6b5cc7c1-50f9-42cb-a123-4bf5b4ac8d6c" height="150" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=false" height="150" width="400" />  
 </div> 
+
 <div align='center'>
-  <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >
+  <img src='https://img.shields.io/badge/CUDA/PTX-brightgreen.svg' >
   <img src='https://img.shields.io/badge/ARM-SIMD-yellow.svg' >
   <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
   <img src='https://img.shields.io/badge/Python-blue.svg' >
   <img src='https://img.shields.io/badge/JAVA-JNI-hotpink.svg' >
-  <img src='https://img.shields.io/badge/Android-blue.svg' >
   <img src='https://img.shields.io/badge/AI-Infra-brightgreen.svg' >
   <img src="https://img.shields.io/badge/FFPA:~2x↑🎉SDPA EA-blue.svg" >
   <img src='https://img.shields.io/badge/📚CUDA Learn Notes-brightgreen.svg' >
