@@ -31,10 +31,6 @@
 
 ![cuda-learn-notes](https://github.com/user-attachments/assets/b2578723-b7a7-4d8f-bcd1-5008947b808a)
 
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="120" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
-
 <div align='center'>
   <img src='https://img.shields.io/github/stars/DefTruth.svg?style=social' >
   <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
@@ -51,8 +47,15 @@
   <img src="https://img.shields.io/badge/FFPA:~2x↑🎉SDPA EA-blue.svg" >
   <img src='https://img.shields.io/badge/📚CUDA Learn Notes-brightgreen.svg' >
   <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
-  <img src='https://img.shields.io/badge/📚Awesome LLM Inference-brightgreen.svg' >
-  <img src="https://img.shields.io/badge/🎉HGEMM-blue.svg" >
-  <img src="https://img.shields.io/badge/📚SGEMM-brightgreen.svg" >
 </div> 
 
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=true" alt="logo" height="120" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=false" alt="image" height="120" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github.com/user-attachments/assets/6b5cc7c1-50f9-42cb-a123-4bf5b4ac8d6c" alt="image" height="120" width="400" align="left" style="margin: 5px; margin-bottom: 0px;"/>
+</div> 
+-->
+<div align='center'>
+<img src="https://github.com/user-attachments/assets/6b5cc7c1-50f9-42cb-a123-4bf5b4ac8d6c" alt="image" height="120" width="400" style="margin: 5px; margin-bottom: 0px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=false" alt="image" height="120" width="400" style="margin: 5px; margin-bottom: 0px;" />  
+</div> 
