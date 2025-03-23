@@ -60,8 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=false" height="150" width="400" />  
 </div> 
 <div align='center'>
-  <img src='https://img.shields.io/github/stars/DefTruth.svg?style=social' >
-  <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
   <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >
   <img src='https://img.shields.io/badge/ARM-SIMD-yellow.svg' >
   <img src='https://img.shields.io/badge/C++/C-hotpink.svg' >
