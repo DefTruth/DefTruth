@@ -54,7 +54,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DefTruth&show_icons=false" alt="image" height="120" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 <img src="https://github.com/user-attachments/assets/6b5cc7c1-50f9-42cb-a123-4bf5b4ac8d6c" alt="image" height="120" width="400" align="left" style="margin: 5px; margin-bottom: 0px;"/>
 </div> 
--->
 
 <div align='center'>
   <img src="https://github.com/user-attachments/assets/6b5cc7c1-50f9-42cb-a123-4bf5b4ac8d6c" height="150" width="400"/>
@@ -72,3 +71,4 @@
   <img src='https://img.shields.io/badge/📚CUDA Learn Notes-brightgreen.svg' >
   <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
 </div> 
+-->
