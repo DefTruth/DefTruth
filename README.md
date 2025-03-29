@@ -91,7 +91,7 @@
   <img src='https://img.shields.io/github/stars/xlite-dev.svg?style=social' >
   <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
   <img src='https://img.shields.io/badge/CUDA/SIMD-brightgreen.svg' >  
-  <img src='https://img.shields.io/badge/C++/Python/JNI-blue.svg' >  
+  <img src='https://img.shields.io/badge/C++/Python-blue.svg' >  
   <img src='https://img.shields.io/badge/AI-Infra-brightgreen.svg' >
   <img src="https://img.shields.io/badge/FFPA:~2x↑🎉-blue.svg" >
   <img src='https://img.shields.io/badge/📚CUDA Learn Notes-brightgreen.svg'>
