@@ -89,7 +89,7 @@
 
 <div align='center'>
   <img src='https://img.shields.io/github/stars/xlite-dev.svg?style=social' >
-  <img src='https://img.shields.io/github/followers/DefTruth.svg?style=social' >
+  <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src='https://img.shields.io/badge/CUDA/SIMD-brightgreen.svg' >  
   <img src='https://img.shields.io/badge/C++/Python-blue.svg' >  
   <img src='https://img.shields.io/badge/AI-Infra-brightgreen.svg' >
