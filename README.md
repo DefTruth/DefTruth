@@ -177,10 +177,10 @@
         <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
      </p>
      <p> 
-       🏢 Group: <a href="https://github.com/xlite-dev" > @xlite-dev </a> |  <a href="https://github.com/vipshop/vllm" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
+       🏢 Group: <a href="https://github.com/xlite-dev" > Owner. @xlite-dev </a> |  <a href="https://github.com/vipshop/vllm" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
      </p>
      <p> 
-        🛠 Creator: <a href="https://github.com/xlite-dev" > xlite-dev </a> | <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/Awesome-LLM-Inference" > Awesome-LLM-Inference </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ffpa-attn </a> 🎧
+        🛠 Creator: <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/Awesome-LLM-Inference" > Awesome-LLM-Inference </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ffpa-attn </a> 🎧
      </p>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Many Others </a> ⚙
      </p>
