@@ -160,6 +160,10 @@
  <p> 
         🛠 <a href="https://github.com/xlite-dev/HGEMM" > HGEMM </a> | <a href="https://github.com/xlite-dev/Awesome-Diffusion-Inference" > Awesome-DiT-Inference </a> | <a href="https://github.com/xlite-dev/lihang-notes" > lihang-notes(PDF, 200 Pages) </a> | <a href="https://github.com/xlite-dev/torchlm" > torchlm </a> 🎧
      </p>
+
+<p>
+        🤖 Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> Zhihu(知乎): DefTruth </a> 📞
+     </p>
 -->
 
 <div align='center'>
@@ -183,9 +187,6 @@
         🛠 Creator: <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/Awesome-LLM-Inference" > Awesome-LLM-Inference </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ffpa-attn </a> 🎧
      </p>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Many Others </a> ⚙
-     </p>
-     <p>
-        🤖 Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> Zhihu(知乎): DefTruth </a> 📞
      </p>
      <p>❤ I <b>love</b> open source, bro, and I think you do too. ❤ </p>
    <p align="center">
