@@ -214,7 +214,7 @@
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Many Others </a> ⚙️
      </p>
      <p>
-        🤖 Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> Zhihu(知乎): DefTruth </a> 📞
+        ✉️ Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> 知乎: DefTruth </a> 🤖
      </p>
      <p>❤ I <b>love</b> open source, bro, and I think you do too. ❤ </p>
    <p align="center">
