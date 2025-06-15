@@ -195,9 +195,9 @@
      <a href="https://trendshift.io/developers/644" target="_blank"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" style="width: 300px; height: 70px;" width="300" height="70"/></a>
      <p>
         <img src='https://img.shields.io/github/stars/xlite-dev.svg?style=social' >
-        <img src='https://img.shields.io/badge/CUDA|SIMD-brightgreen.svg' >  
+        <img src='https://img.shields.io/badge/CUDA-brightgreen.svg' >  
         <img src='https://img.shields.io/badge/C++|Python-blue.svg' >  
-        <img src='https://img.shields.io/badge/HPC|LLM-brightgreen.svg' >
+        <img src='https://img.shields.io/badge/AI-Infra-brightgreen.svg' >
         <img src="https://img.shields.io/badge/FFPA:~2x↑🎉-blue.svg" >
         <img src='https://img.shields.io/badge/📚LeetCUDA-brightgreen.svg'>
         <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
