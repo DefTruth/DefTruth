@@ -209,7 +209,7 @@
         🛠 Creator: <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/Awesome-LLM-Inference" > Awesome-LLM-Inference </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ffpa-attn </a> 🎧
      </p>
      <p> 
-       🖥 <a href="https://github.com/vipshop/DBCache" > DBCache⚡️ </a> | <a href="https://github.com/xlite-dev/HGEMM" > HGEMM </a> | <a href="https://github.com/xlite-dev/Awesome-Diffusion-Inference" > Awesome-DiT-Inference </a> | <a href="https://github.com/xlite-dev/torchlm" > torchlm </a> 🖱
+       🖥  <a href="https://github.com/xlite-dev/HGEMM" > HGEMM </a> | <a href="https://github.com/vipshop/DBCache" > DBCache⚡️</a> | <a href="https://github.com/xlite-dev/Awesome-Diffusion-Inference" > Awesome-DiT-Inference </a> | <a href="https://github.com/xlite-dev/torchlm" > torchlm </a> 🖱
      </p>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Many Others </a> ⚙️
      </p>
