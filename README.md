@@ -203,7 +203,7 @@
         <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
      </p>
      <p> 
-       🏢 Group: <a href="https://github.com/xlite-dev" > Qwner. @xlite-dev </a> |  <a href="https://github.com/vipshop/vllm" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
+       🏢 Group: <a href="https://github.com/xlite-dev" > Qwner. @xlite-dev </a> |  <a href="https://github.com/vipshop/cache-dit" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
      </p>
      <p> 
         🛠 Creator: <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/Awesome-LLM-Inference" > Awesome-LLM-Inference </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ffpa-attn </a> 🎧
@@ -216,7 +216,7 @@
      <p>
         ✉️ Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> 知乎: DefTruth </a> 🤖
      </p>
-     <p>❤ I <b>love</b> open source, bro, and I think you do too. ❤ </p>
+     <p>♥️ I <b>love</b> open source, bro, and I think you do too. ♥️</p>
    <p align="center">
 </div>
 
