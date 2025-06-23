@@ -249,9 +249,6 @@
        🖥  <a href="https://github.com/xlite-dev/HGEMM" > HGEMM </a> | <a href="https://github.com/vipshop/cache-dit" > 🤗cache-dit</a> | <a href="https://github.com/xlite-dev/Awesome-DiT-Inference" > Awesome-DiT-Inference </a> | <a href="https://github.com/xlite-dev/torchlm" > torchlm </a>🖱
      </p>
      <p>
-      ⚙️ <a href="https://github.com/xlite-dev/lihang-notes" > lihang-notes(200 Pages) </a> | <a href="https://github.com/xlite-dev/RVM-Inference" > RVM-Inference </a> | <a href="https://github.com/xlite-dev/netron-vscode-extension" > netron-vscode </a> ⌨️
-     </p>
-     <p>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Many Others </a> ⚙️
      </p>
      <p>
