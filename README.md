@@ -243,10 +243,10 @@
        🏢 Group: <a href="https://github.com/xlite-dev" > Owner. @xlite-dev </a> |  <a href="https://github.com/vipshop/cache-dit" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
      </p>
      <p> 
-        🛠 Creator: <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/LLM-Infra" > 📚LLM-Infra </a> | <a href="https://github.com/xlite-dev/DiT-Infra" > DiT-Infra </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > 📚LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ⚡️ffpa-attn </a> 🎧
+        🛠 Creator: <a href="https://github.com/xlite-dev/lite.ai.toolkit" > lite.ai.toolkit </a> |  <a href="https://github.com/xlite-dev/LLM-Infra" > 📚LLM-Infra </a> | <a href="https://github.com/xlite-dev/DiT-Infra" > DiT-Infra </a> | <a href="https://github.com/xlite-dev/LeetCUDA" > 📚LeetCUDA </a> | <a href="https://github.com/xlite-dev/ffpa-attn" > ffpa-attn </a> 🎧
      </p>
      <p> 
-       🖥  <a href="https://github.com/xlite-dev/HGEMM" > HGEMM </a> | <a href="https://github.com/vipshop/cache-dit" > 🤗cache-dit</a> | <a href="https://github.com/xlite-dev/flux-faster" > 🤗flux-faster </a> | <a href="https://github.com/xlite-dev/torchlm" > 💎torchlm </a> |<a href="https://github.com/xlite-dev/lihang-notes" > 📚lihang-notes </a> 🖱
+       🖥  <a href="https://github.com/xlite-dev/HGEMM" > HGEMM </a> | <a href="https://github.com/vipshop/cache-dit" > 🤗cache-dit</a> | <a href="https://github.com/xlite-dev/flux-faster" > 🤗flux-faster </a> | <a href="https://github.com/xlite-dev/torchlm" > 💎torchlm </a> |<a href="https://github.com/xlite-dev/lihang-notes" > lihang-notes </a> 🖱
      </p>
      <p>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/huggingface/flux-fast"> 🤗flux-fast </a>| <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Others </a> ⚙️
