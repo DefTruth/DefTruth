@@ -25,7 +25,7 @@
        🤗<a href="https://github.com/xlite-dev/flux-faster" > flux-faster </a> |<a href="https://github.com/xlite-dev/lihang-notes" > lihang-notes(📚PDF, 200 Pages) </a> | <a href="https://github.com/xlite-dev/torchlm" > 💎torchlm </a> 🔥
      </p>
      <p>
-        🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/huggingface/flux-fast"> 🤗flux-fast </a>| <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Others </a> ⚙️
+        🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> 🤗diffusers </a>| <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Others </a> ⚙️
      </p>
      <p>
         ✉️ Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> 知乎: DefTruth </a> 🤖
