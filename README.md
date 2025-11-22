@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/FFPA:~2x↑🎉-blue.svg" >
         <img src='https://img.shields.io/badge/📚LeetCUDA-brightgreen.svg'>
         <img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" >
-        <img src='https://img.shields.io/badge/🤗cache-dit-yellow.svg' >  
+        <img src='https://img.shields.io/badge/🤗Cache-DiT-yellow.svg' >  
      </p>
      <p> 
        🏢 Group: <a href="https://github.com/xlite-dev" > Owner. @xlite-dev </a> |  <a href="https://github.com/vipshop/cache-dit" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
