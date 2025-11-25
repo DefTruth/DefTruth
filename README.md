@@ -17,7 +17,7 @@
         <img src='https://img.shields.io/badge/🤗flux-faster-blue.svg'>
         <img src='https://img.shields.io/badge/⚡️qwen_image-fast-brightgreen.svg'>
         <img src='https://img.shields.io/badge/📚lihang-notes-blue.svg'>
-        <img src='https://img.shields.io/badge/⚡️FastDeploy-brightgreen.svg'>
+        <img src='https://img.shields.io/badge/⚡️Fast-Deploy-brightgreen.svg'>
      </p>
      <p> 
        🏢 Group: <a href="https://github.com/xlite-dev" > Owner. @xlite-dev </a> |  <a href="https://github.com/vipshop/cache-dit" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰
