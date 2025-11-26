@@ -19,9 +19,11 @@
         <a href="https://github.com/xlite-dev/flux-faster" target="_blank"><img src='https://img.shields.io/badge/🤗flux-faster-blue.svg'></a>
         <a href="https://github.com/xlite-dev/qwen-image-fast" target="_blank"><img src='https://img.shields.io/badge/⚡️qwen_image-fast-brightgreen.svg'></a>
         <a href="https://github.com/xlite-dev/qwen-image-fast" target="_blank"><img src='https://img.shields.io/badge/📈longcat_video-fast-blue.svg'></a><br>
+      <!--
         🏢 Group: <a href="https://github.com/xlite-dev" > Owner. @xlite-dev </a> |  <a href="https://github.com/vipshop/cache-dit" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰<br>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> 🤗diffusers </a>| <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Others </a> ⚙️<br>
         ✉️ Contact: <a href="https://github.com/DefTruth"> qyjdef@163.com </a> | <a href="https://github.com/DefTruth" > GitHub: DefTruth </a>  | <a href="https://www.zhihu.com/people/qyjdef"> 知乎: DefTruth </a> 🤖<br>
+      -->
       ♥️ I <b>love</b> open source, bro, and I think you do too. ♥️
    </p>
 </div>
