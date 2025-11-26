@@ -1,16 +1,16 @@
 <div align='center'>
    <p align="center">
+        <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/github/stars/xlite-dev.svg?' ></a><br>
         <a href="https://github.com/xlite-dev" target="_blank"><img src="https://github.com/user-attachments/assets/89a5173e-5677-4140-ba96-63734eb88b59" style=" height: 70px;" height="70"/></a>
         <a href="https://trendshift.io/developers/644" target="_blank"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" style="width: 300px; height: 70px;" width="300" height="70"/></a><br>         
-        <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/github/stars/xlite-dev.svg?' ></a>
         <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/badge/🛠I_am_the-creator_of:-hotpink.svg' ></a>
         <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/badge/xlite-dev-brightgreen.svg' ></a>
         <a href="https://github.com/xlite-dev/ffpa-attn" target="_blank"><img src="https://img.shields.io/badge/ffpa-attn-blue.svg" ></a>
-        <a href="https://github.com/xlite-dev/LeetCUDA" target="_blank"><img src='https://img.shields.io/badge/📚Leet-CUDA-brightgreen.svg'></a>
+        <a href="https://github.com/xlite-dev/LeetCUDA" target="_blank"><img src='https://img.shields.io/badge/📚Leet-CUDA-brightgreen.svg'></a><br>
         <a href="https://github.com/vipshop/cache-dit" target="_blank"><img src='https://img.shields.io/badge/🤗cache-dit-yellow.svg' ></a>
         <a href="https://github.com/xlite-dev/lite.ai.toolkit" target="_blank"><img src="https://img.shields.io/badge/🛠lite.ai.toolkit-blue.svg" ></a>
         <a href="https://github.com/xlite-dev/Awesome-LLM-Inference" target="_blank"><img src='https://img.shields.io/badge/📚Awesome_LLM-Inference-brightgreen.svg'></a>
-        <a href="https://github.com/xlite-dev/Awesome-DiT-Inference" target="_blank"><img src='https://img.shields.io/badge/📚Awesome_DiT-Inference-blue.svg'></a>
+        <a href="https://github.com/xlite-dev/Awesome-DiT-Inference" target="_blank"><img src='https://img.shields.io/badge/📚Awesome_DiT-Inference-blue.svg'></a><br>
         <a href="https://github.com/xlite-dev/torchlm" target="_blank"><img src='https://img.shields.io/badge/💎torchlm-brightgreen.svg'></a>
         <a href="https://github.com/xlite-dev/HGEMM" target="_blank"><img src='https://img.shields.io/badge/📈HGEMM-blue.svg'></a>
         <a href="https://github.com/xlite-dev/flux-faster" target="_blank"><img src='https://img.shields.io/badge/🤗flux-faster-blue.svg'></a>
