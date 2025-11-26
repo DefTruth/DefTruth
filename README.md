@@ -19,9 +19,9 @@
         <a href="https://github.com/xlite-dev/flux-faster" target="_blank"><img src='https://img.shields.io/badge/🤗flux-faster-blue.svg'></a>
         <a href="https://github.com/xlite-dev/qwen-image-fast" target="_blank"><img src='https://img.shields.io/badge/⚡️qwen_image-fast-brightgreen.svg'></a>
         <a href="https://github.com/xlite-dev/qwen-image-fast" target="_blank"><img src='https://img.shields.io/badge/📈longcat_video-fast-blue.svg'></a><!--<br>-->
-        <a href="https://github.com/xlite-dev/RVM-Inference" target="_blank"><img src='https://img.shields.io/badge/RMV-Inference-brightgreen.svg'></a>
-        <a href="https://github.com/xlite-dev/yolov5face-toolkit" target="_blank"><img src='https://img.shields.io/badge/yolov5face-toolkit-blue.svg'></a>
-        <a href="https://github.com/xlite-dev/scrfd-toolkit" target="_blank"><img src='https://img.shields.io/badge/scrfd-toolkit-brightgreen.svg'></a><!--<br>-->
+        <a href="https://github.com/xlite-dev/RVM-Inference" target="_blank"><img src='https://img.shields.io/badge/🛠RMV-Inference-brightgreen.svg'></a>
+        <a href="https://github.com/xlite-dev/yolov5face-toolkit" target="_blank"><img src='https://img.shields.io/badge/🛠yolov5face-toolkit-blue.svg'></a>
+        <a href="https://github.com/xlite-dev/scrfd-toolkit" target="_blank"><img src='https://img.shields.io/badge/🛠scrfd-toolkit-brightgreen.svg'></a><!--<br>-->
       <!--
         🏢 Group: <a href="https://github.com/xlite-dev" > Owner. @xlite-dev </a> |  <a href="https://github.com/vipshop/cache-dit" > @vipshop </a> | <a href="https://github.com/PaddlePaddle/FastDeploy" > Prev. @PaddlePaddle </a> 🏰<br>
         🎉 Contributor: <a href="https://github.com/PaddlePaddle/FastDeploy/pulls?q=is%3Apr+author%3ADefTruth" > FastDeploy </a> | <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth" > vLLM </a> | <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth" > SGLang </a> |  <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> 🤗diffusers </a>| <a href="https://github.com/pulls?q=is%3Apr+author%3ADefTruth+archived%3Afalse+" > Others </a> ⚙️<br>
