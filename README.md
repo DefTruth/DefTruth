@@ -7,3 +7,7 @@
         <a href="https://trendshift.io/developers/644" target="_blank"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" style="width: 300px; height: 70px;" width="300" height="70"/></a> 
    </p>
 </div>
+
+<!--
+<img width="2452" height="1728" alt="image" src="https://github.com/user-attachments/assets/131e15d4-75a2-4bea-abe5-e2fb3dbe9b19" />
+--
