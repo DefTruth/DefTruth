@@ -12,6 +12,6 @@
       <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
       <a href=https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0>FastDeploy(v1.0)</a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>, 
-      <a href=https://github.com/xlite-dev/>xlite-dev</a> ...
+      <a href=https://github.com/xlite-dev/>xlite-dev</a>, ...
    </p>
 </div>
