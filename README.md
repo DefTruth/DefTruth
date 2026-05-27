@@ -5,10 +5,12 @@
         <a href="https://www.zhihu.com/people/qyjdef"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
         <a href="https://deftruth.github.io"><img src="https://img.shields.io/badge/github.io-0079FF.svg?style=plastic&logo=github&logoColor=white" height="25px" alt="pages" /></a><br>
         <a href="https://github.com/xlite-dev" target="_blank"><img src="https://github.com/user-attachments/assets/89a5173e-5677-4140-ba96-63734eb88b59" style=" height: 70px;"/></a>
-        <a href="https://trendshift.io/developers/644" target="_blank"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" style="width: 300px; height: 70px;"/></a><br>
+        <a href="https://trendshift.io/developers/644" target="_blank"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" style="width: 300px; height: 70px;"/></a>
    </p>
 </div>
 
-<!--
-<img width="2452" height="1728" alt="image" src="https://github.com/user-attachments/assets/131e15d4-75a2-4bea-abe5-e2fb3dbe9b19" />
---
+<div align='center'>  
+   
+I built [Cache-DiT](https://github.com/vipshop/cache-dit), [ffpa-attn](https://github.com/xlite-dev/ffpa-attn), [LeetCUDA](https://github.com/xlite-dev/LeetCUDA), [FastDeploy(v1.0)](https://github.com/PaddlePaddle/FastDeploy/releases/v1.1.0), [lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit), [Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference), ...
+
+</div>
