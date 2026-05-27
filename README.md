@@ -12,6 +12,6 @@
       <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
       <a href=https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0>FastDeploy(v1.0)</a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>, ... <br>
-      I contributed to <a href=""> SGLang </a>, <a href=""> vLLM </a>, <a href=""> Diffusers </a>, ...
+      I also contributed to <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ...
    </p>
 </div>
