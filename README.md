@@ -11,6 +11,6 @@
 
 <div align='center'>  
    
-I built [Cache-DiT](https://github.com/vipshop/cache-dit), [ffpa-attn](https://github.com/xlite-dev/ffpa-attn), [LeetCUDA](https://github.com/xlite-dev/LeetCUDA), [FastDeploy(v1.0)](https://github.com/PaddlePaddle/FastDeploy/releases/v1.1.0), [lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit), [Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference), ...
+I built [Cache-DiT](https://github.com/vipshop/cache-dit), [ffpa-attn](https://github.com/xlite-dev/ffpa-attn), [LeetCUDA](https://github.com/xlite-dev/LeetCUDA), [FastDeploy(v1.0)](https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0), [lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit), [xlite-dev](https://github.com/xlite-dev/), ...
 
 </div>
