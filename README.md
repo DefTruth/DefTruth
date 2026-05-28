@@ -20,6 +20,7 @@
       🤗 I also contributed to 
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
-      <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ...
+      <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ... <br>
+      I love open source, bro, and I think you do too. 
    </p>
 </div>
