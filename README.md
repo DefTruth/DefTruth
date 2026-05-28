@@ -12,6 +12,14 @@
       <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
       <a href=https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0>FastDeploy(v1.0)</a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>, ... <br>
-      I also contributed to <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ...
+      I built
+      <a href=https://github.com/xlite-dev/>xlite-dev</a>, 
+      <a href=https://github.com/xlite-dev/Awesome-LLM-Inference>Awesome-LLM-Inference</a>, 
+      <a href=https://github.com/xlite-dev/torchlm>torchlm</a>, 
+      <a href=https://github.com/xlite-dev/lihang-notes>lihang-notes</a>, ... <br> 
+      I also contributed to 
+      <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
+      <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
+      <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ...
    </p>
 </div>
