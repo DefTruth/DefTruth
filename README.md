@@ -23,7 +23,7 @@
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ... <br>
-      🤖 FFPA technical report:  <a href=https://doi.org/10.5281/zenodo.20623364 ><img src=https://zenodo.org/badge/DOI/10.5281/zenodo.20623364.svg /></a>
-      <!-- I love open source, bro, and I think you do too.  -->
+      <!-- 🤖 FFPA technical report:  <a href=https://doi.org/10.5281/zenodo.20623364 ><img src=https://zenodo.org/badge/DOI/10.5281/zenodo.20623364.svg /></a>
+      I love open source, bro, and I think you do too.  -->
    </p>
 </div>
