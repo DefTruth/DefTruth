@@ -1,4 +1,9 @@
 <div align='center'>
+  <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='320px' height='400px'></a>
+  <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='323px' height='400px'></a>
+</div>
+
+<!-- <div align='center'>
   <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='250px' height='320px'></a>
   <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='252px' height='320px'></a><br>
    I built 
@@ -7,18 +12,12 @@
       <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>,
       <a href=https://github.com/xlite-dev/>xlite-dev</a>, ... <br>
-      <!-- 
-      I built
-      <a href=https://github.com/xlite-dev/Awesome-LLM-Inference>Awesome-LLM-Inference</a>, 
-      <a href=https://github.com/xlite-dev/torchlm>torchlm</a>, 
-      <a href=https://github.com/xlite-dev/lihang-notes>lihang-notes</a>, ... <br>  
-      -->
-      🤗 I contributed to 
+  🤗 I contributed to 
       <a href=https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0>FastDeploy</a>, 
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ... <br>
-</div>
+</div> -->
 
 <!-- <div align='center'>
    <p align="center">
