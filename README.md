@@ -1,11 +1,11 @@
-<div align='center'>
+<!-- <div align='center'>
   <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='320px' height='400px'></a>
   <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='323px' height='400px'></a>
-</div>
+</div> -->
 
-<!-- <div align='center'>
-  <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='250px' height='320px'></a>
-  <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='252px' height='320px'></a><br>
+<div align='center'>
+  <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='320px' height='400px'></a>
+  <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='323px' height='400px'></a><br>
    I built 
       <a href=https://github.com/vipshop/cache-dit>Cache-DiT</a>, 
       <a href=https://github.com/xlite-dev/ffpa-attn>ffpa-attn</a>, 
@@ -17,7 +17,7 @@
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ... <br>
-</div> -->
+</div>
 
 <!-- <div align='center'>
    <p align="center">
