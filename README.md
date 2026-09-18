@@ -1,6 +1,6 @@
 <div align='center'>
-  <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='300px' height='380px'></a>
-  <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='300px' height='380px'></a><br>
+  <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='250px' height='320px'></a>
+  <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='252px' height='320px'></a><br>
    I built 
       <a href=https://github.com/vipshop/cache-dit>Cache-DiT</a>, 
       <a href=https://github.com/xlite-dev/ffpa-attn>ffpa-attn</a>, 
