@@ -4,6 +4,10 @@
 </div> -->
 
 <div align='center'>
+  <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/github/stars/xlite-dev.svg?' ></a>
+  <img src="https://img.shields.io/github/followers/DefTruth?label=Followers" height="25px" alt="github follow" />
+  <a href="https://www.zhihu.com/people/qyjdef"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
+  <a href="https://deftruth.github.io"><img src="https://img.shields.io/badge/github.io-0079FF.svg?style=plastic&logo=github&logoColor=white" height="25px" alt="pages" /></a><br>
   <a href='https://github.com/xlite-dev/LeetCUDA'><img src='https://github.com/xlite-dev/LeetCUDA/raw/main/docs/book.png' width='320px' height='400px'></a>
   <a href='https://github.com/xlite-dev/lihang-notes'><img src='https://github.com/xlite-dev/lihang-notes/raw/main/book.png' width='323px' height='400px'></a><br>
    I built 
