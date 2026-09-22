@@ -28,18 +28,18 @@
   <img src="https://img.shields.io/github/followers/DefTruth?label=Followers" height="25px" alt="github follow" />
   <a href="https://www.zhihu.com/people/qyjdef"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
   <a href="https://deftruth.github.io"><img src="https://img.shields.io/badge/github.io-0079FF.svg?style=plastic&logo=github&logoColor=white" height="25px" alt="pages" /></a><br>
-  <a href='https://github.com/xlite-dev/LeetCUDA'><img src='./covers-banner.png'></a><br>
-   I built 
+   🤗 I built 
       <a href=https://github.com/vipshop/cache-dit>Cache-DiT</a>, 
       <a href=https://github.com/xlite-dev/ffpa-attn>ffpa-attn</a>, 
       <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>,
-      <a href=https://github.com/xlite-dev/>xlite-dev</a>, ... <br>
+      <a href=https://github.com/xlite-dev/>xlite-dev</a>, ... 
   🤗 I contributed to 
       <a href=https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0>FastDeploy</a>, 
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ... <br>
+    <a href='https://github.com/xlite-dev/LeetCUDA'><img src='./covers-banner.png'></a>
 </div>
 
 <!-- <div align='center'>
