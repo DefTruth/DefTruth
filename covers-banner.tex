@@ -8,19 +8,19 @@
 \begin{document}
 \begin{tikzpicture}[x=1pt, y=1pt]
 \definecolor{panel}{RGB}{246,248,250}
-\definecolor{borderc}{RGB}{208,215,222}
+\definecolor{borderc}{RGB}{139,148,158}
 \fill[panel] (0,0) rectangle (2406.876, 872);
-% 间隔竖线（GitHub border 色 #d0d7de, 图片等高 y=36..836, 位于 gap 中线）
-\draw[draw=borderc, line width=1.5pt] (619.685,36) -- (619.685,836);
-\draw[draw=borderc, line width=1.5pt] (1221.334,36) -- (1221.334,836);
+% 间隔竖线（GitHub muted 灰 #8b949e, 图片等高 y=36..836, 位于 gap 中线）
+\draw[draw=borderc, line width=2.5pt] (619.685,36) -- (619.685,836);
+\draw[draw=borderc, line width=2.5pt] (1221.334,36) -- (1221.334,836);
 % LeetCUDA book 封面 (595.28x841.89 -> 565.69x800), 最左, 中心 x=36+282.843
-\node[anchor=center, inner sep=0pt] at (318.843,436)
+\node[anchor=center, inner sep=0pt, draw=borderc, line width=2.5pt] at (318.843,436)
   {\includegraphics[height=800pt]{../LeetCUDA/kernels/interview/book/figures/misc/cover.pdf}};
 % lihang-notes 封面 (595.22x842 -> 565.65x800), 中间, 中心 x=36+565.69+36+282.825
-\node[anchor=center, inner sep=0pt] at (920.510,436)
+\node[anchor=center, inner sep=0pt, draw=borderc, line width=2.5pt] at (920.510,436)
   {\includegraphics[height=800pt]{../lihang-notes/cover.pdf}};
 % 证书 (2000x1414 -> 1131.54x800), 最右, 中心 x=36+565.69+36+565.65+36+565.771
-\node[anchor=center, inner sep=0pt] at (1805.105,436)
+\node[anchor=center, inner sep=0pt, draw=borderc, line width=2.5pt] at (1805.105,436)
   {\includegraphics[height=800pt]{assets/certificate-20260115T113404-792b8f62.pdf}};
 \end{tikzpicture}
 \end{document}
