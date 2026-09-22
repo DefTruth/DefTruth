@@ -39,7 +39,7 @@
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>,
       <a href=https://github.com/xlite-dev/lihang-notes>lihang-notes</a>,
       <a href=https://github.com/xlite-dev/torchlm>torchlm</a>,
-      <a href=https://github.com/xlite-dev/Awesome-LLM-Inference>Awesome-LLM-Inference</a>,
+      <a href=https://github.com/xlite-dev/Awesome-LLM-Inference>Awesome-LLM-Inference</a>,<br>
       <a href=https://github.com/xlite-dev/Awesome-DiT-Inference>Awesome-DiT-Inference</a>, ...,  
   🤗 I contributed to 
       <a href=https://github.com/PaddlePaddle/FastDeploy/tree/release/1.1.0>FastDeploy</a>, 
