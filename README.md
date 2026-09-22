@@ -48,8 +48,8 @@
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>, ... <br> 
   🚪👇 I also built some open-source books at 
-      <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
-      <a href=https://github.com/xlite-dev/lihang-notes>lihang-notes</a>, ...
+      <a href=https://github.com/xlite-dev/LeetCUDA>📖 LeetCUDA</a>, 
+      <a href=https://github.com/xlite-dev/lihang-notes>📖 lihang-notes</a>, ...
     </td>
   </tr>
   <tr>
