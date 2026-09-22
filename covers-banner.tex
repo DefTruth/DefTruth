@@ -1,4 +1,4 @@
-% covers-banner.tex — GitHub 个人页宽幅封面拼版（lihang | certificate | leetcuda）
+% covers-banner.tex — GitHub 个人页宽幅封面拼版（leetcuda | lihang | certificate MVP），间隔竖线分隔
 % 构建: cd DefTruth/ && xelatex -output-directory=.tmp/banner covers-banner.tex
 % 相对路径以 DefTruth/ 为 cwd；输出 pdf 落 .tmp/banner/，取交付物时 cp 到根目录即可
 % 画布: ~2397.88 x 868.74 bp (2.76:1 偏宽), 三图等高 800pt(tex pt), gap/margin 36pt,
@@ -8,15 +8,19 @@
 \begin{document}
 \begin{tikzpicture}[x=1pt, y=1pt]
 \definecolor{panel}{RGB}{246,248,250}
+\definecolor{borderc}{RGB}{208,215,222}
 \fill[panel] (0,0) rectangle (2406.876, 872);
-% lihang-notes 封面 (595.22x842 -> 565.65x800), 中心 x=36+282.825
-\node[anchor=center, inner sep=0pt] at (318.825,436)
-  {\includegraphics[height=800pt]{../lihang-notes/cover.pdf}};
-% 证书 (2000x1414 -> 1131.54x800), 居中, 中心 x=36+565.65+36+565.77
-\node[anchor=center, inner sep=0pt] at (1203.420,436)
-  {\includegraphics[height=800pt]{assets/certificate-20260115T113404-792b8f62.pdf}};
-% LeetCUDA book 封面 (595.28x841.89 -> 565.69x800), 中心 x=36+565.65+36+1131.54+36+282.84
-\node[anchor=center, inner sep=0pt] at (2088.034,436)
+% 间隔竖线（GitHub border 色 #d0d7de, 图片等高 y=36..836, 位于 gap 中线）
+\draw[draw=borderc, line width=1.5pt] (619.685,36) -- (619.685,836);
+\draw[draw=borderc, line width=1.5pt] (1221.334,36) -- (1221.334,836);
+% LeetCUDA book 封面 (595.28x841.89 -> 565.69x800), 最左, 中心 x=36+282.843
+\node[anchor=center, inner sep=0pt] at (318.843,436)
   {\includegraphics[height=800pt]{../LeetCUDA/kernels/interview/book/figures/misc/cover.pdf}};
+% lihang-notes 封面 (595.22x842 -> 565.65x800), 中间, 中心 x=36+565.69+36+282.825
+\node[anchor=center, inner sep=0pt] at (920.510,436)
+  {\includegraphics[height=800pt]{../lihang-notes/cover.pdf}};
+% 证书 (2000x1414 -> 1131.54x800), 最右, 中心 x=36+565.69+36+565.65+36+565.771
+\node[anchor=center, inner sep=0pt] at (1805.105,436)
+  {\includegraphics[height=800pt]{assets/certificate-20260115T113404-792b8f62.pdf}};
 \end{tikzpicture}
 \end{document}
