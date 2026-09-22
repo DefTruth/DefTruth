@@ -1,0 +1,22 @@
+% covers-banner.tex — GitHub 个人页宽幅封面拼版（lihang | certificate | leetcuda）
+% 构建: cd DefTruth/ && xelatex -output-directory=.tmp/banner covers-banner.tex
+% 相对路径以 DefTruth/ 为 cwd；输出 pdf 落 .tmp/banner/，取交付物时 cp 到根目录即可
+% 画布: ~2397.88 x 868.74 bp (2.76:1 偏宽), 三图等高 800pt(tex pt), gap/margin 36pt,
+% 底色为 GitHub 浅色面板 #f6f8fa
+\documentclass[tikz,border=0pt]{standalone}
+\usepackage{graphicx}
+\begin{document}
+\begin{tikzpicture}[x=1pt, y=1pt]
+\definecolor{panel}{RGB}{246,248,250}
+\fill[panel] (0,0) rectangle (2406.876, 872);
+% lihang-notes 封面 (595.22x842 -> 565.65x800), 中心 x=36+282.825
+\node[anchor=center, inner sep=0pt] at (318.825,436)
+  {\includegraphics[height=800pt]{../lihang-notes/cover.pdf}};
+% 证书 (2000x1414 -> 1131.54x800), 居中, 中心 x=36+565.65+36+565.77
+\node[anchor=center, inner sep=0pt] at (1203.420,436)
+  {\includegraphics[height=800pt]{assets/certificate-20260115T113404-792b8f62.pdf}};
+% LeetCUDA book 封面 (595.28x841.89 -> 565.69x800), 中心 x=36+565.65+36+1131.54+36+282.84
+\node[anchor=center, inner sep=0pt] at (2088.034,436)
+  {\includegraphics[height=800pt]{../LeetCUDA/kernels/interview/book/figures/misc/cover.pdf}};
+\end{tikzpicture}
+\end{document}
