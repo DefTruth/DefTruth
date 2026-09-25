@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align='center'>
-      <a href='https://github.com/xlite-dev/LeetCUDA'><img src='./covers-banner-v3.png'></a>
+      <a href='https://github.com/xlite-dev/LeetCUDA'><img src='./covers-banner.png'></a>
     </td>
   </tr>
 </table>
