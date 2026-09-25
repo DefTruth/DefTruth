@@ -1,0 +1,38 @@
+% covers-banner-v2.tex — GitHub 个人页宽幅封面拼版 v2（certificate MVP | leetcuda | lihang），间隔竖线分隔
+% 构建: cd DefTruth/ && xelatex -interaction=nonstopmode -output-directory=.tmp/banner covers-banner-v2.tex
+% 相对路径以 DefTruth/ 为 cwd；输出 pdf 落 .tmp/banner/，取交付物时 cp 到根目录即可
+% 与 covers-banner.tex (lihang | leetcuda | cert) 同规格, 仅交换证书与 lihang 顺序
+% 画布: ~3473.49 x 872 bp (3.98:1 偏宽), 三图等高 800pt(tex pt), gap/margin 36pt,
+% lihang 与证书外框为手绘风 random steps 墨线, 底色为 GitHub 浅色面板 #f6f8fa
+\documentclass[tikz,border=0pt]{standalone}
+\usepackage{graphicx}
+\usetikzlibrary{decorations.pathmorphing}
+\pgfmathsetseed{7}
+\begin{document}
+\begin{tikzpicture}[x=1pt, y=1pt]
+\definecolor{panel}{RGB}{246,248,250}
+\definecolor{borderc}{RGB}{139,148,158}
+\fill[panel] (0,0) rectangle (3473.493, 872);
+% 间隔竖线（GitHub muted 灰 #8b949e, 图片等高 y=36..836, 位于 gap 中线）
+\draw[draw=borderc, line width=2.5pt] (1185.542,36) -- (1185.542,836);
+\draw[draw=borderc, line width=2.5pt] (2853.842,36) -- (2853.842,836);
+% 证书 (2000x1414 -> 1131.54x800), 最左, 中心 x=36+565.771
+\node[anchor=center, inner sep=0pt] (cert) at (601.771,436)
+  {\includegraphics[height=800pt]{assets/certificate-20260115T113404-792b8f62.pdf}};
+% LeetCUDA 封面+bench 合并图: 裁掉 standalone 12pt 边距, 上下各多裁 1.5bp
+% 消掉墨迹空隙, 后 807.55x394.21bp -> 1632.30x800, 中间, 中心 x=1203.542+816.15
+\node[anchor=center, inner sep=0pt] (leetcuda) at (2019.692,436)
+  {\includegraphics[height=800pt, trim=12.5 14.4 12.8 14.5, clip]
+    {../LeetCUDA/docs/leetcuda_cover_bench.pdf}};
+% lihang-notes 封面 (595.22x842 -> 565.65x800), 最右, 中心 x=2871.842+282.825
+\node[anchor=center, inner sep=0pt] (lihang) at (3154.667,436)
+  {\includegraphics[height=800pt]{../lihang-notes/cover.pdf}};
+% 手绘风外框: lihang 与证书各一圈 random steps 墨线（leetcuda_cover_bench 自带外框, 不加）
+\draw[draw=borderc, line width=2.2pt, rounded corners=6pt, decorate,
+  decoration={random steps, segment length=11pt, amplitude=1.0pt}]
+  (cert.south west) rectangle (cert.north east);
+\draw[draw=borderc, line width=2.2pt, rounded corners=6pt, decorate,
+  decoration={random steps, segment length=11pt, amplitude=1.0pt}]
+  (lihang.south west) rectangle (lihang.north east);
+\end{tikzpicture}
+\end{document}
