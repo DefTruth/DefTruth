@@ -1,26 +1,37 @@
-% covers-banner.tex — GitHub 个人页宽幅封面拼版（leetcuda | lihang | certificate MVP），间隔竖线分隔
+% covers-banner.tex — GitHub 个人页宽幅封面拼版（lihang | leetcuda cover+bench | certificate MVP），间隔竖线分隔
 % 构建: cd DefTruth/ && xelatex -output-directory=.tmp/banner covers-banner.tex
 % 相对路径以 DefTruth/ 为 cwd；输出 pdf 落 .tmp/banner/，取交付物时 cp 到根目录即可
-% 画布: ~2397.88 x 868.74 bp (2.76:1 偏宽), 三图等高 800pt(tex pt), gap/margin 36pt,
-% 底色为 GitHub 浅色面板 #f6f8fa
+% 画布: ~3473.49 x 872 bp (3.98:1 偏宽), 三图等高 800pt(tex pt), gap/margin 36pt,
+% lihang 与证书外框为手绘风 random steps 墨线, 底色为 GitHub 浅色面板 #f6f8fa
 \documentclass[tikz,border=0pt]{standalone}
 \usepackage{graphicx}
+\usetikzlibrary{decorations.pathmorphing}
+\pgfmathsetseed{7}
 \begin{document}
 \begin{tikzpicture}[x=1pt, y=1pt]
 \definecolor{panel}{RGB}{246,248,250}
 \definecolor{borderc}{RGB}{139,148,158}
-\fill[panel] (0,0) rectangle (2406.876, 872);
+\fill[panel] (0,0) rectangle (3473.493, 872);
 % 间隔竖线（GitHub muted 灰 #8b949e, 图片等高 y=36..836, 位于 gap 中线）
-\draw[draw=borderc, line width=2.5pt] (619.685,36) -- (619.685,836);
-\draw[draw=borderc, line width=2.5pt] (1221.334,36) -- (1221.334,836);
-% LeetCUDA book 封面 (595.28x841.89 -> 565.69x800), 最左, 中心 x=36+282.843
-\node[anchor=center, inner sep=0pt, draw=borderc, line width=2.5pt] at (318.843,436)
-  {\includegraphics[height=800pt]{../LeetCUDA/kernels/interview/book/figures/misc/cover.pdf}};
-% lihang-notes 封面 (595.22x842 -> 565.65x800), 中间, 中心 x=36+565.69+36+282.825
-\node[anchor=center, inner sep=0pt, draw=borderc, line width=2.5pt] at (920.510,436)
+\draw[draw=borderc, line width=2.5pt] (619.650,36) -- (619.650,836);
+\draw[draw=borderc, line width=2.5pt] (2287.951,36) -- (2287.951,836);
+% lihang-notes 封面 (595.22x842 -> 565.65x800), 最左, 中心 x=36+282.825
+\node[anchor=center, inner sep=0pt] (lihang) at (318.825,436)
   {\includegraphics[height=800pt]{../lihang-notes/cover.pdf}};
-% 证书 (2000x1414 -> 1131.54x800), 最右, 中心 x=36+565.69+36+565.65+36+565.771
-\node[anchor=center, inner sep=0pt, draw=borderc, line width=2.5pt] at (1805.105,436)
+% LeetCUDA 封面+bench 合并图: 裁掉 standalone 12pt 边距, 上下各多裁 1.5bp
+% 消掉墨迹空隙, 后 807.55x394.21bp -> 1632.30x800, 中间, 中心 x=637.65+816.15
+\node[anchor=center, inner sep=0pt] (leetcuda) at (1453.800,436)
+  {\includegraphics[height=800pt, trim=12.5 14.4 12.8 14.5, clip]
+    {../LeetCUDA/docs/leetcuda_cover_bench.pdf}};
+% 证书 (2000x1414 -> 1131.54x800), 最右, 中心 x=2305.951+565.771
+\node[anchor=center, inner sep=0pt] (cert) at (2871.722,436)
   {\includegraphics[height=800pt]{assets/certificate-20260115T113404-792b8f62.pdf}};
+% 手绘风外框: lihang 与证书各一圈 random steps 墨线（leetcuda_cover_bench 自带外框, 不加）
+\draw[draw=borderc, line width=2.2pt, rounded corners=6pt, decorate,
+  decoration={random steps, segment length=11pt, amplitude=1.0pt}]
+  (lihang.south west) rectangle (lihang.north east);
+\draw[draw=borderc, line width=2.2pt, rounded corners=6pt, decorate,
+  decoration={random steps, segment length=11pt, amplitude=1.0pt}]
+  (cert.south west) rectangle (cert.north east);
 \end{tikzpicture}
 \end{document}
