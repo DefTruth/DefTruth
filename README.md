@@ -34,7 +34,7 @@
   🤗 I built 
       <a href=https://github.com/xlite-dev>xlite-dev</a>,
       <a href=https://github.com/vipshop/cache-dit>Cache-DiT</a>, 
-      <a href=https://github.com/xlite-dev/ffpa-attn>ffpa-attn</a>, 
+      <a href=https://github.com/vipshop/ffpa-attn>ffpa-attn</a>, 
       <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>,
       <a href=https://github.com/xlite-dev/lihang-notes>lihang-notes</a>,
