@@ -56,7 +56,8 @@
       <img src="https://img.shields.io/github/followers/DefTruth?label=Followers" height="25px" alt="github follow" />
       <a href="https://www.zhihu.com/people/qyjdef"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
       <a href="https://deftruth.github.io"><img src="https://img.shields.io/badge/github.io-0079FF.svg?style=plastic&logo=github&logoColor=white" height="25px" alt="pages" /></a>
-      <a href="https://trendshift.io/developers/644?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-644" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" width="80" height="18"/></a>
+      <a href="https://trendshift.io/developers/644?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-644" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/644" alt="DefTruth | Trendshift" width="85"/></a>
+      <a href="https://trendshift.io/repositories/83964?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-83964" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/83964/daily?language=Cuda" alt="xlite-dev%2FLeetCUDA | Trendshift" width="85"/></a>
     </td>
   </tr>
 </table>
