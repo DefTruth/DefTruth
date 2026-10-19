@@ -52,7 +52,7 @@
   <tr>
     <td align='center'>
       <a href='https://github.com/xlite-dev/LeetCUDA'><img src='./covers-banner-v4.png'></a><br>
-      <img src=https://img.shields.io/badge/language-C++/Python-brightgreen.svg >
+      <img src=https://img.shields.io/badge/language-CUDA/Python-brightgreen.svg >
       <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/github/stars/xlite-dev.svg?' ></a>
       <img src="https://img.shields.io/github/followers/DefTruth?label=Followers" height="25px" alt="github follow" />
       <a href="https://www.zhihu.com/people/qyjdef"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
