@@ -24,9 +24,9 @@
 </div> -->
 
 
-<table align='center'>
+<table align='left'>
   <tr>
-    <td align='center'>
+    <td align='left'>
   <a href="https://github.com/xlite-dev" target="_blank"><img src='https://img.shields.io/github/stars/xlite-dev.svg?' ></a>
   <img src="https://img.shields.io/github/followers/DefTruth?label=Followers" height="25px" alt="github follow" />
   <a href="https://www.zhihu.com/people/qyjdef"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
@@ -47,14 +47,14 @@
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang-Diffusion </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>,
-      <a href="https://github.com/VicBilibily/GCMP/pulls?q=is%3Apr+author%3ADefTruth"> GCMP </a>, ..., <br>
+      <a href="https://github.com/VicBilibily/GCMP/pulls?q=is%3Apr+author%3ADefTruth"> GCMP </a>, ...,
   🚪👇 I also built some open-source books at 
       <a href=https://github.com/xlite-dev/LeetCUDA>📖 LeetCUDA</a>, 
       <a href=https://github.com/xlite-dev/lihang-notes>📖 lihang-notes</a>, ...
     </td>
   </tr>
   <tr>
-    <td align='center'>
+    <td align='left'>
       <a href='https://github.com/xlite-dev/LeetCUDA'><img src='./covers-banner-v4.png'></a>
     </td>
   </tr>
