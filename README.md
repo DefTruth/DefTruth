@@ -29,9 +29,9 @@
     <td align='left'>
   🤗🎉 Hi! I'm DefTruth, an AI Infra Engineer (<b>DiT / LLM</b>). I built 
       <a href=https://github.com/xlite-dev>xlite-dev</a>,
-      <a href=https://github.com/vipshop/cache-dit>Cache-DiT</a>, 
-      <a href=https://github.com/vipshop/ffpa-attn>ffpa-attn</a>, 
-      <a href=https://github.com/xlite-dev/LeetCUDA>LeetCUDA</a>, 
+      <a href=https://github.com/vipshop/cache-dit><b>Cache-DiT</b></a>, 
+      <a href=https://github.com/vipshop/ffpa-attn><b>ffpa-attn</b></a>, 
+      <a href=https://github.com/xlite-dev/LeetCUDA><b>LeetCUDA</b></a>, 
       <a href=https://github.com/xlite-dev/lite.ai.toolkit>lite.ai.toolkit</a>,
       <a href=https://github.com/xlite-dev/lihang-notes>lihang-notes</a>,
       <a href=https://github.com/xlite-dev/torchlm>torchlm</a>,
@@ -42,11 +42,12 @@
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang </a>, 
       <a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3ADefTruth"> SGLang-Diffusion </a>, 
       <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ADefTruth"> vLLM </a>, 
+      <a href="https://github.com/vllm-project/vllm-omni/pulls?q=is%3Apr+author%3ADefTruth"> vLLM-Omni </a>, 
       <a href="https://github.com/huggingface/diffusers/pulls?q=is%3Apr+author%3ADefTruth"> Diffusers </a>,
       <a href="https://github.com/VicBilibily/GCMP/pulls?q=is%3Apr+author%3ADefTruth"> GCMP </a> <b>|</b>  
   🚪🐍 I also built some open-source books at 
-      <a href=https://github.com/xlite-dev/LeetCUDA>📖 LeetCUDA</a>, 
-      <a href=https://github.com/xlite-dev/lihang-notes>📖 lihang-notes</a>. 🤗🤗
+      <a href=https://github.com/xlite-dev/LeetCUDA>📖 <b>LeetCUDA</b></a>, 
+      <a href=https://github.com/xlite-dev/lihang-notes>📖 lihang-notes.</a> 🎉🎉
     </td>
   </tr>
   <tr>
