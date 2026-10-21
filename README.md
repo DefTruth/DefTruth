@@ -47,7 +47,7 @@
       <a href="https://github.com/VicBilibily/GCMP/pulls?q=is%3Apr+author%3ADefTruth"> GCMP </a> <b>|</b>  
   🚪🐍 I also built some open-source books at 
       <a href=https://github.com/xlite-dev/LeetCUDA>📖 <b>LeetCUDA</b></a>, 
-      <a href=https://github.com/xlite-dev/lihang-notes>📖 lihang-notes.</a> 🎉🎉
+      <a href=https://github.com/xlite-dev/lihang-notes>📖 lihang-notes</a>.
     </td>
   </tr>
   <tr>
